@@ -25,7 +25,7 @@
 //
 #endregion
 
-// $Id$
+// $Id: Enumerable.g.tt 71137f497bf2 2012/04/16 20:01:27 azizatif $
 
 namespace System.Linq
 {
@@ -37,7 +37,7 @@ namespace System.Linq
     #endregion
     
     // This partial implementation was template-generated:
-    // Mon, 16 Apr 2012 19:42:10 GMT
+    // Mon, 16 Apr 2012 20:05:53 GMT
 
     partial class Enumerable
     {
