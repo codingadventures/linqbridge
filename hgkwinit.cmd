@@ -36,13 +36,13 @@ setlocal
 echo.
 echo [keyword]
 echo src/Action.cs=
-echo src/DelegatingComparer.cs=
 echo src/Enumerable.cs=
 echo src/Enumerable.g.tt=
 echo src/ExtensionAttribute.cs=
 echo src/Func.cs=
 echo src/IGrouping.cs=
 echo src/ILookup.cs=
+echo src/Internal.cs=
 echo src/IOrderedEnumerable.cs=
 echo src/Lookup.cs=
 echo src/OrderedEnumerable.cs=
